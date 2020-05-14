@@ -31,7 +31,7 @@ nav{
         
         li{
             width: auto;
-            background-color: #A75813;
+            background-color:$primary_color;
             text-align: right;
             transition: .6s;
             display: inline-block;
@@ -44,7 +44,7 @@ nav{
             a{
                 text-decoration: none;
                 text-transform: uppercase;
-                color: #fff;
+                color: $accent_color;
                 display: inline-block;
                 height: 100%;
                 width: 120px;
