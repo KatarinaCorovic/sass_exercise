@@ -2,11 +2,11 @@
 $primary_color:#A75813;
 $accent_color:#fff;
 
-@mixin borderad ($x, $y) {
-    border-radius: 0, $x, $y, 0;
-  }
+// @mixin borderad ($x, $y) {
+//     border-radius: 0, $x, $y, 0;
+//   }
 
-  @mixin marginleft ($x)
+//   @mixin marginleft ($x)
 
 body {
     margin: 0;
